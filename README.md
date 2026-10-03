@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/f0c7db8b-8049-4ba3-a35f-39780a666884
+
+
+
         Point of Sale(POS) & Inventory Management System A robust, enterprise-grade desktop Point of Sale(POS) and inventory management application built from scratch using C# .NET Windows Forms and Microsoft SQL Server (MSSQL). Designed with a clean 3-tier architecture, this project delivers secure data handling, custom UI components, and streamlined retail operations.
 
 Key Features Secure Authentication & User Management: Role-based access control backed by a dedicated login screen and administrative user management forms(frmAddEditUser).
